@@ -1,6 +1,8 @@
 # spansaver
 Dual-Monitor Spanning Screensaver for Linux Mint
 ![SPANSAVER GUI Screenshot](screenshot_main.png)
+![SPANSAVER Dual-Monitor View](screenshot_dual.png)
+*Dual-monitor panoramic screensaver running in full 3480x1080 glory*
 
 
 SPANSAVER v1.0
