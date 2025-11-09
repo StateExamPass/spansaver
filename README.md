@@ -1,6 +1,6 @@
 # spansaver
 Dual-Monitor Spanning Screensaver for Linux Mint
-![SPANSAVER GUI Screenshot](screenshot_1.png)
+![SPANSAVER GUI Screenshot](screenshot_main.png)
 
 
 SPANSAVER v1.0
